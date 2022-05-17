@@ -1,0 +1,1 @@
+This is an api to test Microsoft Sentinel http capabilities
